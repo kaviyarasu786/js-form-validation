@@ -1,0 +1,40 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: aquamarine;
+}
+#container
+{
+    border: 5px solid firebrick;
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+input[type=text]
+{
+    width: 90%;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 10px;
+}
+label
+{
+    margin: 10px;
+    font-size: 20px;
+}
+#but
+{
+    margin-left: 200px;
+}
+#but input
+{
+    padding: 5px;
+    width: 70px;
+}
+h2
+{
+    text-align: center;
+}
